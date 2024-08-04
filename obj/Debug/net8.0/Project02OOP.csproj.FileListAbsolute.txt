@@ -1,0 +1,14 @@
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\bin\Debug\net8.0\Project02OOP.exe
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\bin\Debug\net8.0\Project02OOP.deps.json
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\bin\Debug\net8.0\Project02OOP.runtimeconfig.json
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\bin\Debug\net8.0\Project02OOP.dll
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\bin\Debug\net8.0\Project02OOP.pdb
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\obj\Debug\net8.0\Project02OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\obj\Debug\net8.0\Project02OOP.AssemblyInfoInputs.cache
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\obj\Debug\net8.0\Project02OOP.AssemblyInfo.cs
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\obj\Debug\net8.0\Project02OOP.csproj.CoreCompileInputs.cache
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\obj\Debug\net8.0\Project02OOP.dll
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\obj\Debug\net8.0\refint\Project02OOP.dll
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\obj\Debug\net8.0\Project02OOP.pdb
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\obj\Debug\net8.0\Project02OOP.genruntimeconfig.cache
+D:\Technology\Backend\3- C# OOP\OOP Projects\Project02OOP Solution\Project02OOP\obj\Debug\net8.0\ref\Project02OOP.dll
